@@ -1,0 +1,145 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Orientação a Objetos",
+      "descricao": "Aprenda seus conceitos e suas aplicabilidades de forma efetiva",
+      "Autor": "Thiago Leite E Carvalho",
+      "preco": 79.9,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Como fazer amigos e influenciar pessoas",
+      "descricao": "O guia clássico e definitivo para relacionar-se com as pessoas",
+      "Autor": "Dale Carnegie",
+      "preco": 10,
+      "formato_id": 1,
+      "categoria_id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Tire seu projeto do papel com SCRUM",
+      "descricao": "Atitudes e práticas para realizar seus projetos no trabalho e na vida pessoal",
+      "Autor": "Alexandre Magno",
+      "preco": 10,
+      "formato_id": 1,
+      "categoria_id": 2
+    },
+    {
+      "id": 4,
+      "nome": "O poder do Hábito",
+      "descricao": "Por que fazemos o que fazemos na vida e nos negócios",
+      "Autor": "Charles Duhigg",
+      "preco": 50,
+      "formato_id": 1,
+      "categoria_id": 2
+    },
+    {
+      "id": 5,
+      "nome": "Sun Tzu",
+      "descricao": "A Arte da Guerra",
+      "Autor": "Lionel Giles",
+      "preco": 20,
+      "formato_id": 1,
+      "categoria_id": 2
+    },
+    {
+      "id": 6,
+      "nome": "Use a Cabeça Java",
+      "descricao": "Pense Java - Guia de Aprendizagem",
+      "Autor": "Kathy Sierra & Bert Bates",
+      "preco": 80,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nome": "SQL",
+      "descricao": "Curso Prático",
+      "Autor": "Celso Henrique Poderoso de Oliveira",
+      "preco": 30,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "id": 8,
+      "nome": "PHP",
+      "descricao": "Programando com Orientação a Objetos",
+      "Autor": "Pablo Dall'Oglio",
+      "preco": 60,
+      "formato_id": 3,
+      "categoria_id": 1
+    },
+    {
+      "id": 9,
+      "nome": "Android Cookbook",
+      "descricao": "Problemas e soluções para desenvolvedores Android",
+      "Autor": "Ian F. Darwin",
+      "preco": 120,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "id": 10,
+      "nome": "Código Limpo",
+      "descricao": "Habilidades Práticas do Agile Software",
+      "Autor": "Robert C. Martin",
+      "preco": 50,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "id": 11,
+      "nome": "JavaScript & Jquery",
+      "descricao": "Desenvolvimento de interfaces web interativas",
+      "Autor": "Jon Duckett",
+      "preco": 150,
+      "formato_id": 1,
+      "categoria_id": 1
+    },
+    {
+      "nome": "Humildade",
+      "descricao": "A beleza da santidade",
+      "Autor": "Andrew Murray",
+      "preco": 5.31,
+      "formato_id": 2,
+      "categoria_id": 2,
+      "id": 12
+    },
+    {
+      "nome": "Diario de um Banana",
+      "descricao": "A verdade nua e crua",
+      "Autor": "Jeff Kinney",
+      "preco": 26.89,
+      "formato_id": 3,
+      "categoria_id": 2,
+      "id": 13
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 2,
+      "nome": "Geral"
+    }
+  ],
+  "formato": [
+    {
+      "id": 1,
+      "edicao": "Capa Comum"
+    },
+    {
+      "id": 2,
+      "edicao": "Ebook"
+    },
+    {
+      "id": 3,
+      "edicao": "Capa Dura"
+    }
+  ]
+}
